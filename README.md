@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvintriseptia
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on building a website project
 - 📫 How to reach me https://www.linkedin.com/in/alvin-triseptia-mairis/
 
