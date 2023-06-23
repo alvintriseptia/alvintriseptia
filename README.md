@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvintriseptia
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on building a website project
+- 🌱 I’m currently learning Mobile Development and Backend Development
+- 💞️ I’m looking to collaborate on building a software project
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/alvin-triseptia-mairis/)
 
 <!---
